@@ -5,6 +5,7 @@
   </div>
 </template>
 
+
 <script>
 import Faktid from './components/Faktid.vue'
 
